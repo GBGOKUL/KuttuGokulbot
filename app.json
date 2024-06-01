@@ -17,7 +17,7 @@
       "inline"
     ],
     "website": "https://github.com/GouthamSER/TelegramBot",
-    "repository": "https://github.com/GouthamSER/TelegramBot",
+    "repository": "https://github.com/GBGOKUL/KuttuGokulbot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
